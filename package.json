@@ -1,6 +1,6 @@
 {
-  "name": "lib-add-days",
-  "version": "2.0.0",
+  "name": "add-days",
+  "version": "2.0.1",
   "description": "add days to a date (without mutation)",
   "main": "index.js",
   "scripts": {
