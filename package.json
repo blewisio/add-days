@@ -8,6 +8,7 @@
   },
   "keywords": ["date", "add", "days"],
   "author": "",
+  "repository": "github:blewisio/add-days",
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.9.0"
