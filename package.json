@@ -1,0 +1,15 @@
+{
+  "name": "lib-add-days",
+  "version": "2.0.0",
+  "description": "add days to a date (without mutation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["date", "add", "days"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
