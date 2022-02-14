@@ -11,6 +11,6 @@
   "repository": "github:blewisio/add-days",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^26.0.0"
   }
 }
